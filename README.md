@@ -1,10 +1,32 @@
-# ChatGPT Prompt
+# ChatGPT Prompts
 
-这是一个 chatgpt 的 prompt list 开源仓库，旨在为各类 chatgpt 的使用者提供丰富、多样的 prompt 样例。仓库拥有创造性、灵感性、实用性、趣味性全面覆盖的 prompt 样例，用户可以在仓库中找到适合自己需求的 prompt 并在各种 NLU/NLG 应用中运用。我们欢迎用户们上传和分享自己的 prompt 样例，希望这个仓库能成为交流和学习的平台，共同推动 chatgpt 技术的发展。
+## 介绍
 
-This is an open source repository for a chatgpt prompt list, aimed to provide rich and diverse prompt examples for various chatgpt users. The repository contains prompt examples which cover creativity, inspiration, practicality, and fun, allowing users to find the suitable prompts for their needs and apply them to various NLU/NLG applications. We welcome users to upload and share their own prompt examples, hoping to make this repository a platform for communication and learning, and jointly promoting the development of chatgpt technology
+这是一个 ChatGPT的 prompt 列表开源仓库，旨在为各类 ChatGPT的使用者提供丰富、多样的 prompt 样例。仓库拥有创造性、灵感性、实用性、趣味性全面覆盖的 prompt 样例，用户可以在仓库中找到适合自己需求的 prompt 并在各种 NLU/NLG 应用中运用。我们欢迎用户们上传和分享自己的 prompt 样例，希望这个仓库能成为交流和学习的平台，共同推动 ChatGPT技术的发展。
 
+## 用法
 
+要使用 ChatGPT Prompts，只需搜索你需要的Prompt，然后复制前置提示词+自定义的后置提示词，组合成一个完整的提示词，发送给ChatGPT的对话窗口。
+
+其中前置提示词是用来给GPT限定角色，后置提示词是用户的具体需求。在第一次发送了前置提示词+后置提示词之后，后续的对话可以只输入后置提示词，来对输出进行调整。
+
+## 改进此项目
+
+该项目始终在寻找改进的方法，欢迎用户提供反馈和贡献。如果您有任何建议或想法，请随时在 GitHub 存储库中创建 Issue 或提交拉取请求。
+
+如果您对本项目感兴趣，我们非常欢迎您的参与和贡献。您可以通过以下方式为我们的项目贡献：
+
+1. 搭建本地环境并进行测试、提出反馈意见或者改进建议；
+2. 提交代码、文档或者其他相关材料；
+3. 解决已有的issue并进行代码贡献；
+4. 改进项目的文档和使用说明；
+   无论您如何贡献，我们对您的努力表示感谢。如果您有任何疑问或建议，请随时在GitHub项目页面提出issue或通过其他联系方式与我们取得联系。再次感谢您的支持！
+
+## 支持我！
+
+如果您发现免费 ChatGPT API 版有用，请考虑在 GitHub 上给出Star，以支持持续的开发和维护。您的支持将帮助她维护此项目，并继续使人工智能技术对所有人都可访问。谢谢您的支持！
+
+欢迎加入ChatGPT 学习交流群167619529或者关注微信公众号AIRight。
 
 
 | ID  | 类别     | 应用名称                 | 功能简介                                         | 前置提示词                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 后置提示词                                                                                                                                                                                                                                                                                                                                             | 综合打分   |           |
